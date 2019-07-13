@@ -1,0 +1,102 @@
+[
+  {
+    "ID": "3JE",
+    "NAME": "Nomads",
+    "GRAPHIC": "nomad.jpg",
+    "PRICE": 129.25,
+    "MSRP": 128.99,
+    "QTY": 23,
+    "ORDERED": 23,
+    "DESC": "White sneakers with multingual writing on it.",
+    "BRAND": "Adidas"
+  },
+  {
+    "ID": "2L0",
+    "NAME": "Futures",
+    "GRAPHIC": "futures.jpg",
+    "PRICE": 149.25,
+    "MSRP": 149.25,
+    "QTY": 50,
+    "ORDERED": 43,
+    "DESC": "Red sneakers with breathable mesh and clear sole.",
+    "BRAND": "Jordans"
+  },
+  {
+    "ID": "A11",
+    "NAME": "AllStar Originals",
+    "GRAPHIC": "allstars.jpg",
+    "PRICE": 300.00,
+    "MSRP": 300.00,
+    "QTY": 12,
+    "ORDERED": 12,
+    "DESC": "Original Michael Jordan Shoes.",
+    "BRAND": "Jordans"
+  },
+  {
+    "ID": "EL1",
+    "NAME": "Eclipse",
+    "GRAPHIC": "eclipse.jpg",
+    "PRICE": 130.20,
+    "MSRP": 130.65,
+    "QTY": 98,
+    "ORDERED": 98,
+    "DESC": "Black everyday shoes with flat soles.",
+    "BRAND": "Jordan"
+  },
+  {
+    "ID": "J72",
+    "NAME": "Roshe Ones",
+    "GRAPHIC": "roshe.jpg",
+    "PRICE": 109.10,
+    "MSRP": 109.10,
+    "QTY": 67,
+    "ORDERED": 67,
+    "DESC": "Black sneakers with breathable mesh and black check mark.",
+    "BRAND": "Nike"
+  },
+  {
+    "ID": "Q0P",
+    "NAME": "Zoom",
+    "GRAPHIC": "zoom.jpg",
+    "PRICE": 149.25,
+    "MSRP": 149.25,
+    "QTY": 20,
+    "ORDERED": 20,
+    "DESC": "White tennis shoes with dynamic fit system.",
+    "BRAND": "Nike"
+  },
+  {
+    "ID": "4IL",
+    "NAME": "Air Max 95",
+    "GRAPHIC": "airmax.jpg",
+    "PRICE": 240.00,
+    "MSRP": 220.65,
+    "QTY": 42,
+    "ORDERED": 42,
+    "DESC": "Black shoes with weight impact soles.",
+    "BRAND": "Nike"
+  },
+  {
+    "ID": "PR3",
+    "NAME": "Presto",
+    "GRAPHIC": "presto.jpg",
+    "PRICE": 125.20,
+    "MSRP": 1202.25,
+    "QTY": 35,
+    "ORDERED": 35,
+    "DESC": "White sport shoes with cleats.",
+    "BRAND": "Nike"
+  },
+  {
+    "ID": "HU4",
+    "NAME": "Huaraches",
+    "GRAPHIC": "huaraches.jpg",
+    "PRICE": 249.99,
+    "MSRP": 249.11,
+    "QTY": 41,
+    "ORDERED": 41,
+    "DESC": "White fashion shoes with intricate yet minimal design.",
+    "BRAND": "Nike"
+  }
+
+]
