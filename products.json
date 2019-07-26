@@ -22,7 +22,7 @@
     "BRAND": "Jordans"
   },
   {
-    "ID": 411",
+    "ID": "411",
     "NAME": "AllStar Originals",
     "GRAPHIC": "allstars.jpg",
     "PRICE": 300.00,
@@ -88,7 +88,7 @@
     "BRAND": "Nike"
   },
   {
-    "ID": 894",
+    "ID": "894",
     "NAME": "Huaraches",
     "GRAPHIC": "huaraches.jpg",
     "PRICE": 249.99,
