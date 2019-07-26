@@ -1,6 +1,6 @@
 [
   {
-    "ID": "3JE",
+    "ID": "333",
     "NAME": "Nomads",
     "GRAPHIC": "nomad.jpg",
     "PRICE": 129.25,
@@ -11,7 +11,7 @@
     "BRAND": "Adidas"
   },
   {
-    "ID": "2L0",
+    "ID": "210",
     "NAME": "Futures",
     "GRAPHIC": "futures.jpg",
     "PRICE": 149.25,
@@ -22,7 +22,7 @@
     "BRAND": "Jordans"
   },
   {
-    "ID": "A11",
+    "ID": 411",
     "NAME": "AllStar Originals",
     "GRAPHIC": "allstars.jpg",
     "PRICE": 300.00,
@@ -33,7 +33,7 @@
     "BRAND": "Jordans"
   },
   {
-    "ID": "EL1",
+    "ID": "E11",
     "NAME": "Eclipse",
     "GRAPHIC": "eclipse.jpg",
     "PRICE": 130.20,
@@ -44,7 +44,7 @@
     "BRAND": "Jordans"
   },
   {
-    "ID": "J72",
+    "ID": "772",
     "NAME": "Roshe Ones",
     "GRAPHIC": "roshe.jpg",
     "PRICE": 109.10,
@@ -55,7 +55,7 @@
     "BRAND": "Nike"
   },
   {
-    "ID": "Q0P",
+    "ID": "006",
     "NAME": "Zoom",
     "GRAPHIC": "zoom.jpg",
     "PRICE": 149.25,
@@ -66,7 +66,7 @@
     "BRAND": "Nike"
   },
   {
-    "ID": "4IL",
+    "ID": "413",
     "NAME": "Air Max 95",
     "GRAPHIC": "airmax.jpg",
     "PRICE": 240.00,
@@ -77,7 +77,7 @@
     "BRAND": "Nike"
   },
   {
-    "ID": "PR3",
+    "ID": "433",
     "NAME": "Presto",
     "GRAPHIC": "presto.jpg",
     "PRICE": 125.20,
@@ -88,7 +88,7 @@
     "BRAND": "Nike"
   },
   {
-    "ID": "HU4",
+    "ID": 894",
     "NAME": "Huaraches",
     "GRAPHIC": "huaraches.jpg",
     "PRICE": 249.99,
